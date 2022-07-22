@@ -1,6 +1,6 @@
 # odin-recipes
 
-A simple basic recipe website.
+A simple basic recipe website with design.
 
 - maneuver the basics of html.
 - establish knowledge about git.
